@@ -195,9 +195,10 @@ jobs:
         RELEASE:
           # - focal # Ubuntu 20.04 LTS
           - jammy # Ubuntu 22.04 LTS
+          - noble # Ubuntu 24.04.1
           # - lunar # Ubuntu 23.04
           # - buster # Debian 10
-          - bullseye # Debian 11
+          # - bullseye # Debian 11
           - bookworm # Debian 12
           - trixie # debian testing
           - sid # Debian unstable
