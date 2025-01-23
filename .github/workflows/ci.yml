@@ -199,6 +199,7 @@ jobs:
           # - buster # Debian 10
           - bullseye # Debian 11
           - bookworm # Debian 12
+          - trixie # debian testing
           - sid # Debian unstable
         TYPE:
           - minimal
